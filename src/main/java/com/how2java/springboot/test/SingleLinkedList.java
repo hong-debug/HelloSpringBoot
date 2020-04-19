@@ -119,7 +119,7 @@ public class SingleLinkedList {
         System.out.println("开始：");
         singleLinkedList.display();
        singleLinkedList.reversetList(singleLinkedList.getHead());
-        System.out.println("反转后：");
+        System.out.println("反转后面了：");
         System.out.println("size=="+singleLinkedList.getSize());
         singleLinkedList.display();
     }
